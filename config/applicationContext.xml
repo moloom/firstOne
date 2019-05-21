@@ -50,5 +50,7 @@
 		<property name="dataSource" ref="dataSource"></property>
 		<property name="configLocation" value="classpath:mybatis-config.xml"></property>
 	</bean>
+	<!--updata test  -->
 
 </beans>
+
