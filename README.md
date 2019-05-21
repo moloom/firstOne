@@ -1,4 +1,4 @@
 # firstOne
 ==========
 :coffee:,:boy:,
-:wine:,
+:computer:,
